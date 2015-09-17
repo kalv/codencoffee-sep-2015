@@ -1,5 +1,5 @@
 body {
-  background: #f1f1f1;
+  background: #fff;
   color: #555;
   font: 1em/1.325 "Helvetica Neue", Helvetica, Arial, Sans-Serif;
   -webkit-font-smoothing: antialiased;
@@ -10,7 +10,7 @@ a {
 }
 
 #preso, .slide {
-  background: #f1f1f1;
+  background: #fff;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -81,4 +81,13 @@ h1 + h2 + p {
 .content em {
   font-family: Georgia, Serif;
   font-style: italic;
+}
+
+#main_01_slide.title-slide {
+  background: #fff url(main/kalv.jpg) bottom right no-repeat;
+}
+
+#main_01_slide.title-slide .content > * {
+  margin-left: 0;
+  text-align: left;
 }
