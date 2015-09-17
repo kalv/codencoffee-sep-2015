@@ -1,3 +1,84 @@
-.bullets ul {
-  font-size: 2.5em;
+body {
+  background: #f1f1f1;
+  color: #555;
+  font: 1em/1.325 "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: #42a4c5;
+}
+
+#preso, .slide {
+  background: #f1f1f1;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1.125;
+  margin: 0;
+}
+
+h2 {
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1.125;
+  margin: 0;
+}
+
+h1 + h2,
+h2 + h3,
+.content > blockquote,
+.content > form > blockquote {
+  color: #888;
+  font: italic 400 1.5em/1.25 Georgia, Serif;
+  margin: 0;
+  text-align: center
+}
+
+h1 + h2 + h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+  font-size: 1em;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.content > blockquote,
+.content > form > blockquote {
+  margin-top: 1em;
+}
+
+.content > p {
+  font-size: 1.5em;
+}
+
+.content p,
+.content li {
+  max-width: 28em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 + h2 + p {
+  color: #999;
+}
+
+.bullets > ul {
+  font-size: 1.5em;
+  margin: 0;
+  padding: 0;
+}
+
+.bullets > ul > li {
+  margin: 1em auto;
+  padding: 0;
+}
+
+.content em {
+  font-family: Georgia, Serif;
+  font-style: italic;
 }

@@ -1,18 +1,16 @@
 <!SLIDE title-slide>
 # Development Team Culture
-
 ## @kalv from brewhouse.io
-
-### September 2015
+September 2015
 
 <!SLIDE bullets transition=fade>
 ## Me
 
 - @kalv on twitter
-- Co-Founder / CEO of Brewhouse.io (Goodbits.io)
-- Worked with web since 1995 (/cgi-bin ftw!)
-- Still code
-- Love Coffee (hence Brewhouse)
+- Co-Founder/CEO of Brewhouse.io (Goodbits.io)
+- Worked with web since 1995 *(/cgi-bin ftw!)*
+- Still writing code
+- Love coffee (hence Brewhouse)
 
 <!SLIDE bullets transition=fade>
 ## Why this talk?
@@ -26,27 +24,26 @@
 - Habits that need to be formed are different
 
 <!SLIDE bullets transition=fade>
-## What it is Not
-- Free Food / Beer
+## What it is not
+- Free food, beer
 - Dashboard in the office
-- Swag, t-shirts / hoodies
-- Foosball table / Ping-pong
+- Swag, t-shirts, hoodies
+- Foosball table, ping-pong
 
 <!SLIDE bullets transition=fade>
 ## Run Away
 
-"We have a great team culture, everyone drops tools on a Friday to share a beer and play ping pong"
+>&ldquo;We have a great team culture, everyone drops tools on a Friday to share a beer and play ping pong.&rdquo;
 
 <!SLIDE bullets transition=fade>
 ## Edgar Schein
-
-<em>(Sloan Professor of Management Emeritus at the Sloan School of Management at the MIT)</em>
+### (Sloan Professor of Management Emeritus at the Sloan School of Management at the MIT)
 
 A pattern of **shared basic assumptions** learned by a group as it solved its problems of external adaptation and internal integration (…) A product of joint learning.
 
 <!SLIDE bullets transition=fade>
 ## Henrik Kniberg
-<em>(Agile guru, working with Spotify / Lego)</em>
+### (Agile guru, working with Spotify / Lego)
 
 Culture is the stuff people do without noticing it
 
@@ -83,8 +80,8 @@ Culture is what is implicitly created by a group of people working with shared v
 
 <!SLIDE bullets transition=fade>
 ## Do it!
-(lebouf)
-Work to create Habits that encourage adopting those values
+(lebouf)  
+Work to create habits that encourage adopting those values
 
 <!SLIDE bullets transition=fade>
 ## Transparency
@@ -105,12 +102,12 @@ Work to create Habits that encourage adopting those values
 - CI / Automated Testing (prevents quality loss)
 - RCov / Code Climate
 - Change user story process and measure velocity change
-- Hold Retrospectives, don't wait for perfect structure, learn on the go!
+- Hold retrospectives, don't wait for perfect structure, learn on the go!
 
 <!SLIDE bullets transition=fade>
 ## There's more!
 
-- This is only a touch on the surface, lots of docs and better presentations
+- I've only scratched the surface, lots of docs and better presentations to discover
 - I feel though it's important to focus on few than too many and test
 
 <!SLIDE bullets transition=fade>
@@ -119,8 +116,8 @@ Work to create Habits that encourage adopting those values
 This presentation:
 http://codencoffee-kalv.herokuapp.com/
 
-https://www.atlassian.com/agile/developer
-http://thehypertextual.com/2013/01/17/eSdgar-schein-organizational-culture-and-leadership/
-http://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013
+- https://www.atlassian.com/agile/developer
+- http://thehypertextual.com/2013/01/17/eSdgar-schein-organizational-culture-and-leadership/
+- http://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013
 
-# Thanks
+*Thanks!*
