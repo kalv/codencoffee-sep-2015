@@ -1,6 +1,10 @@
 <!SLIDE title-slide>
 # Development Team Culture
 
+## @kalv from brewhouse.io
+
+### September 2015
+
 <!SLIDE bullets transition=fade>
 ## Me
 
