@@ -65,62 +65,70 @@ Culture is what is implicitly created by a group of people working with shared v
 <!SLIDE bullets transition=fade>
 ## Transparency
 
-- To build great Trust be open
+- Build good Trust within the team
 - Knowing why will enforce what needs to be done
 
 <!SLIDE bullets transition=fade>
 ## Collaboration
 
 - Dependent on Trust (Transparency)
+- Good Collaboration comes from when everyone understands one another
 - No dogmatism, everyone is different (if not stamp it out quick)
 
 <!SLIDE bullets transition=fade>
 ## Test Everything
 
-- Everything is broken, always legacy code after commit
-- Give permissions to change
-- Small decisions
+- Everything is broken, all code is legacy after commit
+- Give permission to change
+- Small decisions and change often
 
 <!SLIDE bullets transition=fade>
 ## Do it!
-(lebouf)
-Work to create Habits that encourage adopting those values
+
+![](labeouf.gif)
+
+Create habits to encourage adoption of the values
 
 <!SLIDE bullets transition=fade>
 ## Transparency
 - Share everything, all docs
 - Discuss big decisions
-- Broadcast as much as you can (allow feedback)
+- Broadcast as much as you can (encourage feedback)
 - 1-1s
 
 <!SLIDE bullets transition=fade>
 ## Collaboration
 - Github Pull Requests vs direct commits
-- Pair programming on areas of complexity (define well)
-- Ask for input even if it looks done
+- Pair programming on areas of complexity (define)
+- Ask for input even if it looks complete
+- Encourage discussion on silo'd work
 
 <!SLIDE bullets transition=fade>
 ## Test Everything
-- Starts with measuring, know whether something is getting better or worse
-- CI / Automated Testing (prevents quality loss)
-- RCov / Code Climate
+- Measure everything!
+- CI / Automated Testing
+- Code coverage / Code Climate
 - Change user story process and measure velocity change
-- Hold Retrospectives, don't wait for perfect structure, learn on the go!
+- Do Retrospectives. Don't wait for perfect retro, learn on the go!
+
 
 <!SLIDE bullets transition=fade>
-## There's more!
+## Done. Kind of.
 
-- This is only a touch on the surface, lots of docs and better presentations
-- I feel though it's important to focus on few than too many and test
+- This is only a touch on the surface, lots of better documentation
+- Other values that might align with the company
+- I feel it's important to focus on few than too many and test!
 
-<!SLIDE bullets transition=fade>
-## Other reading and sources
+<!SLIDE small transition=fade>
+# Other reading and sources
 
 This presentation:
 http://codencoffee-kalv.herokuapp.com/
 
-https://www.atlassian.com/agile/developer
-http://thehypertextual.com/2013/01/17/eSdgar-schein-organizational-culture-and-leadership/
-http://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013
+[https://www.atlassian.com/agile/developer](https://www.atlassian.com/agile/developer)
+
+[http://thehypertextual.com/2013/01/17/eSdgar-schein-organizational-culture-and-leadership/](http://thehypertextual.com/2013/01/17/eSdgar-schein-organizational-culture-and-leadership/)
+
+[http://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013](http://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013)
 
 # Thanks
