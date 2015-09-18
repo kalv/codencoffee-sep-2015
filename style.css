@@ -35,7 +35,7 @@ h2 + h3,
 .content > blockquote,
 .content > form > blockquote {
   color: #888;
-  font: italic 400 1.5em/1.25 Georgia, Serif;
+  font: italic 400 2.5em/1.25 Georgia, Serif;
   margin: 0;
   text-align: center
 }
@@ -53,7 +53,7 @@ h1 + h2 + h3 {
 }
 
 .content > p {
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 .content p,
@@ -68,7 +68,7 @@ h1 + h2 + p {
 }
 
 .bullets > ul {
-  font-size: 1.5em;
+  font-size: 3em;
   margin: 0;
   padding: 0;
 }

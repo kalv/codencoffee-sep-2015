@@ -9,8 +9,7 @@ September 2015
 - @kalv on twitter
 - Co-Founder/CEO of Brewhouse.io (Goodbits.io)
 - Worked with web since 1995 *(/cgi-bin ftw!)*
-- Still writing code
-- Love coffee (hence Brewhouse)
+- Still writing code & Love Coffee
 
 <!SLIDE bullets transition=fade>
 ## Why this talk?
@@ -103,21 +102,18 @@ Create habits to encourage adoption of the values
 <!SLIDE bullets transition=fade>
 ## Test Everything
 - Measure everything!
-- CI / Automated Testing
-- Code coverage / Code Climate
-- Change user story process and measure velocity change
+- CI / Automated Testing / Code Coverage
+- Learn from agile process, tune Velocity
 - Do Retrospectives. Don't wait for perfect retro, learn on the go!
-
->>>>>>> origin/master
 
 <!SLIDE bullets transition=fade>
 ## Done. Kind of.
 
-- This is only a touch on the surface, lots of better documentation
-- Other values that might align with the company
-- I feel it's important to focus on few than too many and test!
+- Tip of iceberg
+- One size does not fit all
+- Important to focus on few than too many &amp; test!
 
-<!SLIDE bullets transition=fade>
+<!SLIDE small transition=fade>
 # Other reading and sources
 
 This presentation:
